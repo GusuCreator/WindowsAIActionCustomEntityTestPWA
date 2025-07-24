@@ -1,6 +1,6 @@
 {
-  "name": "Windows Action Sample PWA",
-  "short_name": "Windows Action Sample PWA",
+  "name": "Windows Action Custom Entity Sample PWA",
+  "short_name": "Windows Action Custom Entity Sample PWA",
   "description": "A PWA demonstrating protocol handlers and share target",
   "lang": "en-US",
   "start_url": "./",
